@@ -1,4 +1,5 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Landing page "Miami"
+• Stack: HTML5, SASS, JS (for hamburger button)
+• Fully responsive layout was made by using CSS Grid and Flexbox
+• [Here is the the design](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=16033%3A3)
+• To see demo - [click here](https://ArturNagaycev.github.io/lp-miami/)
